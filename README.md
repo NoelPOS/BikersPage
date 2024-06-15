@@ -1,6 +1,6 @@
 # Biker Page
 
-This README file provides an overview of the Biker Page project, including the technologies used, how it was built, and how you can run it.
+This README file provides an overview of the Biker Page project, including the technologies used, how it was built, and how you can run it. Let's start! 
 
 ## Project Overview
 
